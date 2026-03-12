@@ -39,7 +39,7 @@ cruzados con el rendimiento de sus videos en YouTube.
 ## Uso en Google Colab
 ```python
 import pandas as pd
-url = 'https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/Spotify_Youtube.csv'
+url = 'https://raw.githubusercontent.com/Nestor-Leyva/Spotify_Youtube/refs/heads/main/Spotify_Youtube.csv'
 df = pd.read_csv(url)
 df.head()
 ```
